@@ -1,0 +1,9 @@
+produto,quantidade,preco_unitario,valor_total_item,categoria
+Leite,2.0,5.5,11.0,Laticínios
+Pao,1.0,8.0,8.0,Padaria/Doces
+Cafe,1.0,15.2,15.2,Bebidas
+Biscoito,3.0,3.0,9.0,Padaria/Doces
+Refrigerante,4.0,4.5,18.0,Bebidas
+Queijo,0.5,30.0,15.0,Laticínios
+Chocolate,2.0,7.0,14.0,Padaria/Doces
+Agua,6.0,2.0,12.0,Bebidas
